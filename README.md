@@ -50,3 +50,7 @@ DELETE /tasks/:id - Deletes a task, if it belongs to the logged-in user.
 ## Tech Stack
 
 Flask, Flask-SQLAlchemy, Flask-Migrate, Flask-Bcrypt, Flask-JWT-Extended, Flask-CORS, SQLite
+
+## Live Deployment
+
+https://flask-productivity-auth-api.onrender.com
